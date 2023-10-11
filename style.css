@@ -5,10 +5,10 @@ a{
     color:blue;
 }
 .box{
-    background-color: rgb(112, 101, 87);
+    background-color: rgb(131, 95, 125);
     padding: 20px 5px;
 }
-.box-part{
+.box-in{
     background-color: white;
     margin: 30px 20px 20px 20px;
     border-radius: 10%;
